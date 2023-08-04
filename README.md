@@ -1,6 +1,8 @@
 # RGG Fighters Wiki
-My version of a wiki for fighters in the Like A Dragon series.
+
 <img src="static/rggfighterswiki_logo.png">
+
+My version of a wiki for fighters in the Like A Dragon series.
 
 ## Description
 With upcoming games from Like A Dragon, I figure that I take the task to make a wiki of a subsection of the Like A Dragon Fandom Wiki, particularly for fighters/protagonists of the series.
